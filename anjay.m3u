@@ -171,5 +171,5 @@ https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8?checkedby:iptvcat.
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="ANU",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="ANU",SPOTV
+https://cempedak-live-cdn.mncnow.id:443/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
