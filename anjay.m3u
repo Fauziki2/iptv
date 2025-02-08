@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/MNCTV.png" group-title="INDONESIA",MNC TV (720P)
+https://mnctv-linier.rctiplus.id/hdntl=exp=1738965404~acl=%2F*~data=hdntl~hmac=744897290afaaa5b1e0de411d45661f3d2b0ac8ca543f95cea92800c62a4b0a5/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI (720P)
+https://rcti-linier.rctiplus.id/hdntl=exp=1738965208~acl=%2F*~data=hdntl~hmac=b27bd7b3713c44f183a427055353ec20b98ccde3dedb7a8950cc9c20ba32a2cb/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/GTV.png" group-title="INDONESIA",GTV (720P)
+https://gtv-linier.rctiplus.id/hdntl=exp=1738965897~acl=%2F*~data=hdntl~hmac=2930e077d7f58795ae12b2c2e400d9e39c18dff99cf964361e9fb9fbc4f6a243/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/iNews.png" group-title="INDONESIA",iNews (720P)
+https://inews-linier.rctiplus.id/hdntl=exp=1738965933~acl=%2F*~data=hdntl~hmac=1fc36ef9d0da0d667804afb6214b3ac8e77440ce66e66a1a5dc8c430dd05f05e/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="INDONESIA",ANTV ID (720P)
+https://cdn14jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_1500000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/400px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="INDONESIA",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-ttv.png" group-title="INDONESIA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-t7.png" group-title="INDONESIA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-cnbc.png" group-title="INDONESIA",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",b
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="INDIHOME TV",TV ONE
+https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1200000=10-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="INDIHOME TV",TRANS TV
+https://cdn13jtedge.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="INDIHOME TV",TRANS 7
+https://cdn11jtedge.indihometv.com/atm/hlsv3/trans7/trans7-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="INDIHOME TV",MAXSTREAM
+https://cdn13jtedge.indihometv.com/joss/194/maxstream/chunklist_w897280306_b1544100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="INDIHOME TV",TV ONE
+https://cdn14jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1200000=10-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="INDIHOME TV",ANTV
+https://cdn14jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_1500000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="INDIHOME TV",METRO TV
+https://cdn11jtedge.indihometv.com/atm/hlsv3/METRO_TV/METRO_TV-avc1_1500000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="INDIHOME TV",KOMPAS TV
+https://cdngb196.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1500000=10-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="INDIHOME TV",iNews
+https://cdn13jtedge.indihometv.com/atm/hlsv3/inews/inews-avc1_1500000=16-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13" group-title="INDIHOME TV",TVRI
+https://cdngb196.indihometv.com/atm/hlsv3/TVRI/TVRI-avc1_1500000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="INDIHOME TV",RTV
+https://cdn12jtedge.indihometv.com/atm/hlsv3/RAJAWALI_TV/RAJAWALI_TV-avc1_1500000=9-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",RODJA TV
+https://cdn12jtedge.indihometv.com/atm/hlsv3/rodjatv/rodjatv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="INDIHOME TV",JTV
+https://cdn11jtedge.indihometv.com/atm/hlsv3/jtv/jtv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" group-title="INDIHOME TV",SINDONEWS TV
+https://cdn12jtedge.indihometv.com/atm/hlsv3/mncnews/mncnews-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/1735661896_88-BERITASATU.png" group-title="INDIHOME TV",BERITA SATU
+https://cdn14jtedge.indihometv.com/joss/134/idtv/chunklist_w907076016_b1544100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/1735661605_88-BTV.png" group-title="INDIHOME TV",BTV
+https://cdn14jtedge.indihometv.com/atm/hlsv3/beritasatu/beritasatu-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13" group-title="INDIHOME TV",RRI NET
+https://cdngb196.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD-avc1_1500000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",BALI TV
+https://cdngb196.indihometv.com/atm/hlsv3/balitv/balitv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_mqtv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",MQTV
+https://cdn11jtedge.indihometv.com/atm/hlsv3/MQTV_HD/MQTV_HD-avc1_1500000=9-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_mtatv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",MTA TV
+https://cdngb196.indihometv.com/atm/hlsv3/mtatv/mtatv-avc1_1200000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",DAAI TV
+https://cdngb196.indihometv.com/joss/134/daaitv/chunklist_w302068113_b1044100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13" group-title="INDIHOME TV",AL QURAN
+https://cdn11jtedge.indihometv.com/atm/hlsv3/alquran/alquran-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_jaktv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",JAK TV
+https://cdngb196.indihometv.com/atm/hlsv3/JAK_TV/JAK_TV-avc1_1500000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="INDIHOME TV",NUSANTARA TV
+https://cdn14jtedge.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="INDIHOME TV",ANTARA
+https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/antara-avc1_1500000=5-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",MUHAMMADIYAH
+https://cdn11jtedge.indihometv.com/atm/hlsv3/muhammadiyahtv/muhammadiyahtv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13" group-title="INDIHOME TV",PRAMBORS TV
+https://cdn14jtedge.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV-avc1_1500000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_idx_small.png" group-title="INDIHOME TV",IDX
+https://cdn12jtedge.indihometv.com/atm/hlsv3/idx/idx-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="INDIHOME TV",JAWAPOS TV
+https://cdn11jtedge.indihometv.com/atm/hlsv3/jawapos/jawapos-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13" group-title="INDIHOME TV",MUI TV
+https://cdn12jtedge.indihometv.com/atm/hlsv3/muitv/muitv-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_small.png" group-title="INDIHOME TV",TAWAF TV
+https://cdn14jtedge.indihometv.com/atm/hlsv3/tawaftv/tawaftv-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13" group-title="INDIHOME TV",TV9
+https://cdnbal1.indihometv.com/atm/hlsv3/tv9/tv9-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13" group-title="INDIHOME TV",U CHANNEL
+https://cdnbal1.indihometv.com/atm/hlsv3/uchannel/uchannel-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_cctv4_small1.png?v=2.0.0.13" group-title="INDIHOME TV",CCTV 4
+https://cdn11jtedge.indihometv.com/atm/hlsv3/CCTV_4/CCTV_4-avc1_1200000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png" group-title="INDIHOME TV",DWTV
+https://cdngb196.indihometv.com/atm/hlsv3/DWTV/DWTV-avc1_1500000=8-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="INDIHOME TV",Allplay ent.
+https://cdn11jtedge.indihometv.com/atm/hlsv3/useeprime/useeprime-avc1_1500000=14-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png" group-title="INDIHOME TV",SEA TODAY
+https://cdn14jtedge.indihometv.com/atm/hlsv3/seatoday/seatoday-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="INDIHOME TV",FUN PLAMET
+https://cdn12jtedge.indihometv.com/atm/hlsv3/indikids/indikids-avc1_1500000=6-mp4a_96000=5.m3u8
