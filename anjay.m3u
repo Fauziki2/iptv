@@ -172,4 +172,4 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8?checkedb
 
 
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="ANU",SPOTV
-https://cempedak-live-cdn.mncnow.id:443/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
