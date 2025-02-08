@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/MNCTV.png" group-title="INDONESIA",MNC TV (720P)
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="Test",SPOTV
 https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI (720P)
 https://rcti-linier.rctiplus.id/hdntl=exp=1738965208~acl=%2F*~data=hdntl~hmac=b27bd7b3713c44f183a427055353ec20b98ccde3dedb7a8950cc9c20ba32a2cb/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
