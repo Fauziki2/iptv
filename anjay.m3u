@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="MN" group-title="Test",MNCTV-HD
+https://cempedak-live-cdn.mncnow.id:443/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="Test",SPOTV
 https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/RCTI.png" group-title="INDONESIA",RCTI (720P)
