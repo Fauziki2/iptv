@@ -36,7 +36,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/mentari.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/antv.jpg" group-title="Indonesia" tvg-id="ANTV",  ANTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/antv.png" group-title="Indonesia" tvg-id="ANTV",  ANTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/transtv.png" group-title="Indonesia",TRANSTV HD
@@ -49,7 +49,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia",Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/trans72.png" group-title="Indonesia",Trans 7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
