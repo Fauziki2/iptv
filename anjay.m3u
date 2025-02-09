@@ -341,8 +341,8 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8?checkedb
 
 ============================
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Madang",SPOTV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Madang",SPOTV #2
 https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-#EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="Madang",SPOTV 2 (Indonesia)
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Madang",SPOTV 2 #2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8?checkedby:iptvcat.com
 
