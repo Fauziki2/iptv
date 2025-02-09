@@ -131,12 +131,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 #EXTINF:-1 tvg-name="ugtv" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/ugtv.png" group-title="Indonesia", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-=============================INDONESIA=========================
-
-
 #EXTINF:-1 group-title="livebolla" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
-#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 
