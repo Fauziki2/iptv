@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/NetTV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/p2YxB3y/magna.png" group-title="Indonesia", Magna Channel
+#EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/magna.png" group-title="Indonesia", Magna Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
@@ -109,7 +109,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=ht
 #EXTINF:-1 group-title="Indonesia" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/mgn.png",MGN
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="IDTV.id" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/idtv.png",IDTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="IDTV.id" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/beritasatu.png",BERITA SATU
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
