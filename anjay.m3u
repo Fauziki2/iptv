@@ -134,7 +134,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 =====================SPORT===========
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/spotv.png",SPOTV
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
