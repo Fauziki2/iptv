@@ -185,7 +185,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://images.indihometv.com/logo_indosiar_ver1.png
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="INDIHOME TV",TRANS TV
 https://cdn13jtedge.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1500000=6-mp4a_96000=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="INDIHOME TV",TRANS 7
