@@ -346,3 +346,10 @@ https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Madang",SPOTV 2 #2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="TEST",SCTV alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
