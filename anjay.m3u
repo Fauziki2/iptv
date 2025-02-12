@@ -426,3 +426,5 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_wxxxxxxxxxx_b744100_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_wxxxxxxxxxx_b744100_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="test",test
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/hdntl=exp=1739386462~acl=*%2Fsvr9klbsfpngfdumsbvfyrc4mwp0o24el3%2F*~data=hdntl~hmac=6533ce09ea31054f3f599f4abb6cf94ede059facf6ddbbbee212a4d162dd9acb/chunklist_720.stream.m3u8?hdnts=st=1739354052~exp=1739386462~acl=*/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/*~hmac=ba56c82474adc09571d2b01d85e832537f7a14c9c6064eec41c92c56b241d72d
