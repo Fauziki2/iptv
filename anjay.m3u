@@ -49,10 +49,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/trans72.png" group-title="Indonesia",Trans 7
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/Fauziki2/iptv/refs/heads/main/logo/net.png",NET TV HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -389,14 +386,6 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
 =====
-
-
-
-#EXTINF:0 tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Madang",SPOTV #2
-https://dsgtq5sngxkde.cloudfront.net:443/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-#EXTINF:-1 tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Madang",SPOTV 2 #2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8?checkedby:iptvcat.com
-
 =======
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -426,5 +415,5 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_wxxxxxxxxxx_b744100_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_wxxxxxxxxxx_b744100_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b2eckKa.png" group-title="megatron",test channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b2eckKa.png" group-title="test channel",test channel
 https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/hdntl=exp=1739386462~acl=*%2Fsvr9klbsfpngfdumsbvfyrc4mwp0o24el3%2F*~data=hdntl~hmac=6533ce09ea31054f3f599f4abb6cf94ede059facf6ddbbbee212a4d162dd9acb/chunklist_720.stream.m3u8?hdnts=st=1739354052~exp=1739386462~acl=*/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/*~hmac=ba56c82474adc09571d2b01d85e832537f7a14c9c6064eec41c92c56b241d72d
