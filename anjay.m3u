@@ -448,3 +448,10 @@ https://convps.hdtvs1.top/aHR0cHM6Ly9sZTIuczNzdHJlYW0uY2ZkL3N0cmVhbWxhL2hscy8wL3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b2eckKa.png" group-title="test channel",test channel
 https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/hdntl=exp=1739386462~acl=*%2Fsvr9klbsfpngfdumsbvfyrc4mwp0o24el3%2F*~data=hdntl~hmac=6533ce09ea31054f3f599f4abb6cf94ede059facf6ddbbbee212a4d162dd9acb/chunklist_720.stream.m3u8?hdnts=st=1739354052~exp=1739386462~acl=*/svr9klbsfpngfdumsbvfyrc4mwp0o24el3/*~hmac=ba56c82474adc09571d2b01d85e832537f7a14c9c6064eec41c92c56b241d72d
+
+#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="motojipi",gp
+#EXTVLCOPT:http-referrer=https://otomotifxmobil.nontonx.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://convps.hdtvs1.top/aHR0cHM6Ly9sZTIuczNzdHJlYW0uY2ZkL3N0cmVhbWxhL2hscy8wL3N0cmVhbS5tM3U4.m3u8
+
