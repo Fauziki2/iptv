@@ -3639,6 +3639,34 @@ https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF
 
 
 
+<=================== CCTV  =============================>
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",CIPERNA 1
+https://cctv-backend.cirebonkab.go.id:6969/streams/46/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",CIPERNA 2
+https://cctv-backend.cirebonkab.go.id:6969/streams/6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",CEMPAKA 1
+https://cctv-backend.cirebonkab.go.id:6969/streams/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",SUMBER 1
+https://cctv-backend.cirebonkab.go.id:6969/streams/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",SUMBER 2
+https://cctv-backend.cirebonkab.go.id:6969/streams/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",TAMAN PKK
+https://cctv-backend.cirebonkab.go.id:6969/streams/50/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV", GRONGGONG
+https://cctv-backend.cirebonkab.go.id:6969/streams/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/60/26/cctv-security-camera-icon-vector-47656026.jpg" group-title="CCTV",DUKUHPUNTANG 2
+https://cctv-backend.cirebonkab.go.id:6969/streams/11/playlist.m3u8
+
 
 
 
