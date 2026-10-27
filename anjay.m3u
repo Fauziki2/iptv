@@ -28,29 +28,12 @@ https://rcti-plus.malingtv.workers.dev/gtv
 https://rcti-plus.malingtv.workers.dev/inews
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",TRANS 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-
-https://transmedia.mikrofast.my.id/transtv/trans7/index.m3u8?direct=1
-
-#EXTINF:-1 tvg-id="0_a7dno7wk" tvg-name="TRANS 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",TRANS 7 HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_a7dno7wk
-https://maxstreamtv.icanplay.my.id/stream/0_a7dno7wk.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 | TV ONLINE (seven)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",TRANS 7 HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(uL0jVIjGWU8cflXHuuzz0VlAKNR8nIsg1xteJU05Bu9wdoQ64Q9lE3yfp_-96OZ3v-XI9JwfWQjVI2Y93zSLnHEG_edfnUBfdFEpP4_Pki1nBQJcRyj7GHpY4ZfxfACF)/dm/3/x8qckyq/d/live-720.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (20D)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",Trans 7 HD 3
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (20D)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",Trans 7 HD
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
 
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (V+)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",Trans 7 HD 4
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (V+)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",Trans 7 HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
