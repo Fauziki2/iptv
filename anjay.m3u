@@ -39,19 +39,6 @@ https://bandeltv.xyz/2026/20detik/index.m3u8?id=trans7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=7
 
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",TRANS TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-
-https://transmedia.mikrofast.my.id/transtv/transtv/index.m3u8?direct=1
-
-#EXTINF:-1 tvg-id="0_uakgnhip" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",Trans TV HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_uakgnhip
-https://maxstreamtv.icanplay.my.id/stream/0_uakgnhip.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",Trans TV HD 2
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
@@ -70,15 +57,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=6
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 
-
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",INDOSIAR HD VD
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="INDONESIA",INDOSIAR V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -88,22 +66,11 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=9
 
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/sctv-id.png" group-title="INDONESIA",SCTV HD 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
-
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/sctv-id.png",SCTV HD 2
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/sctv-id.png",SCTV HD
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://vidio123.mikrofast.web.id/vidio/204/index.mpd
-
-
 
 
 
